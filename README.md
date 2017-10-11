@@ -1,2 +1,0 @@
-# dang
-dang first repository
